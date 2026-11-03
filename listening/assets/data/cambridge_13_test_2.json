@@ -1,0 +1,327 @@
+{
+  "test_id": "cambridge_13_test_2",
+  "book": "Cambridge 13",
+  "test_number": 2,
+  "audio_file": "book 13 test 2.mp3",
+  "sections": [
+    {
+      "section_number": 1,
+      "instructions": "Questions 1-10\n\nComplete the notes below.\n\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+      "topic": "South City Cycling Club",
+      "questions": [
+        {
+          "id": 9999,
+          "type": "instruction",
+          "text": "Example\nName of club secretary: Jim **Hunter**\n\n**Membership**"
+        },
+        {
+          "id": 1,
+          "type": "fill_in_blank",
+          "context": "- Full membership costs $260; this covers cycling and [1] ________ all over Australia"
+        },
+        {
+          "id": 2,
+          "type": "fill_in_blank",
+          "context": "- Recreational membership costs $108\n- Cost of membership includes the club fee and [2] ________"
+        },
+        {
+          "id": 3,
+          "type": "fill_in_blank",
+          "context": "- The club kit is made by a company called [3] ________"
+        },
+        {
+          "id": 4,
+          "type": "fill_in_blank",
+          "context": "**Training rides**\n- Chance to improve cycling skills and fitness\n- Level B: speed about [4] ________ kph"
+        },
+        {
+          "id": 5,
+          "type": "fill_in_blank",
+          "context": "- **Weekly sessions**\n  - Tuesdays at 5.30 am, meet at the [5] ________"
+        },
+        {
+          "id": 6,
+          "type": "fill_in_blank",
+          "context": "  - Thursdays at 5.30 am, meet at the entrance to the [6] ________"
+        },
+        {
+          "id": 7,
+          "type": "fill_in_blank",
+          "context": "**Further information**\n- Rides are about an hour and a half\n- Members often have [7] ________ together afterwards"
+        },
+        {
+          "id": 8,
+          "type": "fill_in_blank",
+          "context": "- There is not always a [8] ________ with the group on these rides"
+        },
+        {
+          "id": 9,
+          "type": "fill_in_blank",
+          "context": "- Check and print the [9] ________ on the website beforehand"
+        },
+        {
+          "id": 10,
+          "type": "fill_in_blank",
+          "context": "- Bikes must have [10] ________"
+        }
+      ]
+    },
+    {
+      "section_number": 2,
+      "instructions": "Questions 11-16\n\nChoose the correct letter, A, B or C.",
+      "topic": "Information on company volunteering projects",
+      "questions": [
+        {
+          "id": 11,
+          "type": "multiple_choice",
+          "text": "How much time for volunteering does the company allow per employee?",
+          "options": [
+            "A. two hours per week",
+            "B. one day per month",
+            "C. 8 hours per year"
+          ]
+        },
+        {
+          "id": 12,
+          "type": "multiple_choice",
+          "text": "In feedback almost all employees said that volunteering improved their",
+          "options": [
+            "A. chances of promotion.",
+            "B. job satisfaction.",
+            "C. relationships with colleagues."
+          ]
+        },
+        {
+          "id": 13,
+          "type": "multiple_choice",
+          "text": "Last year some staff helped unemployed people with their",
+          "options": [
+            "A. literacy skills.",
+            "B. job applications.",
+            "C. communication skills."
+          ]
+        },
+        {
+          "id": 14,
+          "type": "multiple_choice",
+          "text": "This year the company will start a new volunteering project with a local",
+          "options": [
+            "A. school.",
+            "B. park.",
+            "C. charity."
+          ]
+        },
+        {
+          "id": 15,
+          "type": "multiple_choice",
+          "text": "Where will the Digital Inclusion Day be held?",
+          "options": [
+            "A. at the company's training facility",
+            "B. at a college",
+            "C. in a community centre"
+          ]
+        },
+        {
+          "id": 16,
+          "type": "multiple_choice",
+          "text": "What should staff do if they want to take part in the Digital Inclusion Day?",
+          "options": [
+            "A. fill in a form",
+            "B. attend a training workshop",
+            "C. get permission from their manager"
+          ]
+        },
+        {
+          "id": 9991,
+          "type": "instruction",
+          "text": "Questions 17 and 18\n\nChoose TWO letters, A-E.\nWhat TWO things are mentioned about the participants on the last Digital Inclusion Day?"
+        },
+        {
+          "id": 17,
+          "type": "multiple_choice_multi",
+          "sub_ids": [17, 18],
+          "text": "What TWO things are mentioned about the participants on the last Digital Inclusion Day?",
+          "options": [
+            "A. They were all over 70.",
+            "B. They never used their computer.",
+            "C. Their phones were mostly old-fashioned.",
+            "D. They only used their phones for making calls.",
+            "E. They initially showed little interest."
+          ]
+        },
+        {
+          "id": 9992,
+          "type": "instruction",
+          "text": "Questions 19 and 20\n\nChoose TWO letters, A-E.\nWhat TWO activities on the last Digital Inclusion Day did participants describe as useful?"
+        },
+        {
+          "id": 19,
+          "type": "multiple_choice_multi",
+          "sub_ids": [19, 20],
+          "text": "What TWO activities on the last Digital Inclusion Day did participants describe as useful?",
+          "options": [
+            "A. learning to use tablets",
+            "B. communicating with family",
+            "C. shopping online",
+            "D. playing online games",
+            "E. sending emails"
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": 3,
+      "instructions": "Questions 21-25\n\nChoose the correct letter, A, B or C.",
+      "topic": "Planning a presentation on nanotechnology",
+      "questions": [
+        {
+          "id": 21,
+          "type": "multiple_choice",
+          "text": "Russ says that his difficulty in planning the presentation is due to",
+          "options": [
+            "A. his lack of knowledge about the topic.",
+            "B. his uncertainty about what he should try to achieve.",
+            "C. the short time that he has for preparation."
+          ]
+        },
+        {
+          "id": 22,
+          "type": "multiple_choice",
+          "text": "Russ and his tutor agree that his approach in the presentation will be",
+          "options": [
+            "A. to concentrate on how nanotechnology is used in one field.",
+            "B. to follow the chronological development of nanotechnology.",
+            "C. to show the range of applications of nanotechnology."
+          ]
+        },
+        {
+          "id": 23,
+          "type": "multiple_choice",
+          "text": "In connection with slides, the tutor advises Russ to",
+          "options": [
+            "A. talk about things that he can find slides to illustrate.",
+            "B. look for slides to illustrate the points he makes.",
+            "C. consider omitting slides altogether."
+          ]
+        },
+        {
+          "id": 24,
+          "type": "multiple_choice",
+          "text": "They both agree that the best way for Russ to start his presentation is",
+          "options": [
+            "A. to encourage the audience to talk.",
+            "B. to explain what Russ intends to do.",
+            "C. to provide an example."
+          ]
+        },
+        {
+          "id": 25,
+          "type": "multiple_choice",
+          "text": "What does the tutor advise Russ to do next while preparing his presentation?",
+          "options": [
+            "A. summarise the main point he wants to make",
+            "B. read the notes he has already made",
+            "C. list the topics he wants to cover"
+          ]
+        },
+        {
+          "id": 9993,
+          "type": "instruction",
+          "text": "Questions 26-30\n\nWhat comments do the speakers make about each of the following aspects of Russ's previous presentation?\nChoose FIVE answers from the box and write the correct letter, A-G, next to Questions 26-30."
+        },
+        {
+          "id": 9994,
+          "type": "box_options",
+          "text": "**Comments:**\nA. lacked a conclusion\nB. useful in the future\nC. not enough\nD. sometimes distracting\nE. showed originality\nF. covered a wide range\nG. not too technical"
+        },
+        {
+          "id": 26,
+          "type": "fill_in_blank",
+          "context": "structure ________",
+          "options": ["A", "B", "C", "D", "E", "F", "G"]
+        },
+        {
+          "id": 27,
+          "type": "fill_in_blank",
+          "context": "eye contact ________",
+          "options": ["A", "B", "C", "D", "E", "F", "G"]
+        },
+        {
+          "id": 28,
+          "type": "fill_in_blank",
+          "context": "body language ________",
+          "options": ["A", "B", "C", "D", "E", "F", "G"]
+        },
+        {
+          "id": 29,
+          "type": "fill_in_blank",
+          "context": "choice of words ________",
+          "options": ["A", "B", "C", "D", "E", "F", "G"]
+        },
+        {
+          "id": 30,
+          "type": "fill_in_blank",
+          "context": "handouts ________",
+          "options": ["A", "B", "C", "D", "E", "F", "G"]
+        }
+      ]
+    },
+    {
+      "section_number": 4,
+      "instructions": "Questions 31-40\n\nComplete the notes below.\n\nWrite ONE WORD ONLY for each answer.",
+      "topic": "Episodic memory",
+      "questions": [
+        {
+          "id": 31,
+          "type": "fill_in_blank",
+          "context": "**Episodic memory**\n- the ability to recall details, e.g. the time and [31] ________ of past events"
+        },
+        {
+          "id": 32,
+          "type": "fill_in_blank",
+          "context": "- different to semantic memory - the ability to remember general information about the [32] ________ , which does not involve recalling"
+        },
+        {
+          "id": 33,
+          "type": "fill_in_blank",
+          "context": "  [33] ________ information"
+        },
+        {
+          "id": 34,
+          "type": "fill_in_blank",
+          "context": "**Forming episodic memories involves three steps:**\n**Encoding**\n- involves receiving and processing information\n- the more [34] ________ given to an event, the more successfully it can be encoded"
+        },
+        {
+          "id": 35,
+          "type": "fill_in_blank",
+          "context": "- to remember a [35] ________ , it is useful to have a strategy for encoding such information"
+        },
+        {
+          "id": 36,
+          "type": "fill_in_blank",
+          "context": "**Consolidation**\n- how memories are strengthened and stored\n- most effective when memories can be added to a [36] ________ of related information"
+        },
+        {
+          "id": 37,
+          "type": "fill_in_blank",
+          "context": "- the [37] ________ of retrieval affects the strength of memories"
+        },
+        {
+          "id": 38,
+          "type": "fill_in_blank",
+          "context": "**Retrieval**\n- memory retrieval often depends on using a prompt, e.g. the [38] ________ of an object near to the place where you left your car"
+        },
+        {
+          "id": 39,
+          "type": "fill_in_blank",
+          "context": "**Episodic memory impairments**\n- these affect people with a wide range of medical conditions\n- games which stimulate the [39] ________ have been found to help people with schizophrenia"
+        },
+        {
+          "id": 40,
+          "type": "fill_in_blank",
+          "context": "- children with autism may have difficulty forming episodic memories - possibly because their concept of the [40] ________ may be absent\n- memory training may help autistic children develop social skills"
+        }
+      ]
+    }
+  ]
+}

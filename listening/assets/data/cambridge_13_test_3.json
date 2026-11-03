@@ -1,0 +1,383 @@
+{
+  "test_id": "cambridge_13_test_3",
+  "book": "Cambridge 13",
+  "test_number": 3,
+  "audio_file": "book 13 test 3.mp3",
+  "sections": [
+    {
+      "section_number": 1,
+      "instructions": "Complete the notes below.\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+      "topic": "Moving to Banford City",
+      "questions": [
+        {
+          "id": 991,
+          "type": "instruction",
+          "text": "Example\nLinda recommends living in suburb of: Dalton"
+        },
+        {
+          "id": 992,
+          "type": "instruction",
+          "text": "**Accommodation**"
+        },
+        {
+          "id": 1,
+          "type": "fill_in_blank",
+          "context": "Average rent: £ [1] ________ a month"
+        },
+        {
+          "id": 993,
+          "type": "instruction",
+          "text": "**Transport**"
+        },
+        {
+          "id": 2,
+          "type": "fill_in_blank",
+          "context": "Linda travels to work by [2] ________"
+        },
+        {
+          "id": 3,
+          "type": "fill_in_blank",
+          "context": "Limited [3] ________ in city centre"
+        },
+        {
+          "id": 4,
+          "type": "fill_in_blank",
+          "context": "Trains to London every [4] ________ minutes"
+        },
+        {
+          "id": 5,
+          "type": "fill_in_blank",
+          "context": "Poor train service at [5] ________"
+        },
+        {
+          "id": 994,
+          "type": "instruction",
+          "text": "**Advantages of living in Banford**"
+        },
+        {
+          "id": 6,
+          "type": "fill_in_blank",
+          "context": "New [6] ________ opened recently"
+        },
+        {
+          "id": 7,
+          "type": "fill_in_blank",
+          "context": "[7] ________ has excellent reputation"
+        },
+        {
+          "id": 8,
+          "type": "fill_in_blank",
+          "context": "Good [8] ________ on Bridge Street"
+        },
+        {
+          "id": 995,
+          "type": "instruction",
+          "text": "**Meet Linda**"
+        },
+        {
+          "id": 9,
+          "type": "fill_in_blank",
+          "context": "Meet Linda on [9] ________ after 5.30 pm"
+        },
+        {
+          "id": 10,
+          "type": "fill_in_blank",
+          "context": "In the [10] ________ opposite the station"
+        }
+      ]
+    },
+    {
+      "section_number": 2,
+      "instructions": "Questions 11-16\n\nWhat advantage does the speaker mention for each of the following physical activities?\n\nChoose SIX answers from the box and write the correct letter, A-G, next to Questions 11-16.",
+      "topic": "",
+      "questions": [
+        {
+          "id": 996,
+          "type": "box_options",
+          "text": "Advantages",
+          "options": [
+            "A  not dependent on season",
+            "B  enjoyable",
+            "C  low risk of injury",
+            "D  fitness level unimportant",
+            "E  sociable",
+            "F  fast results",
+            "G  motivating"
+          ]
+        },
+        {
+          "id": 11,
+          "type": "fill_in_blank",
+          "context": "using a gym",
+          "options": ["A", "B", "C", "D", "E", "F", "G"]
+        },
+        {
+          "id": 12,
+          "type": "fill_in_blank",
+          "context": "running",
+          "options": ["A", "B", "C", "D", "E", "F", "G"]
+        },
+        {
+          "id": 13,
+          "type": "fill_in_blank",
+          "context": "swimming",
+          "options": ["A", "B", "C", "D", "E", "F", "G"]
+        },
+        {
+          "id": 14,
+          "type": "fill_in_blank",
+          "context": "cycling",
+          "options": ["A", "B", "C", "D", "E", "F", "G"]
+        },
+        {
+          "id": 15,
+          "type": "fill_in_blank",
+          "context": "doing yoga",
+          "options": ["A", "B", "C", "D", "E", "F", "G"]
+        },
+        {
+          "id": 16,
+          "type": "fill_in_blank",
+          "context": "training with a personal trainer",
+          "options": ["A", "B", "C", "D", "E", "F", "G"]
+        },
+        {
+          "id": 997,
+          "type": "instruction",
+          "text": "Questions 17 and 18\n\nChoose TWO letters, A-E.\n\nFor which TWO reasons does the speaker say people give up going to the gym?"
+        },
+        {
+          "id": 17,
+          "type": "multiple_choice_multi",
+          "text": "For which TWO reasons does the speaker say people give up going to the gym?",
+          "options": [
+            "A. lack of time",
+            "B. loss of confidence",
+            "C. too much effort required",
+            "D. high costs",
+            "E. feeling less successful than others"
+          ],
+          "sub_ids": [17, 18]
+        },
+        {
+          "id": 998,
+          "type": "instruction",
+          "text": "Questions 19 and 20\n\nChoose TWO letters, A-E.\n\nWhich TWO pieces of advice does the speaker give for setting goals?"
+        },
+        {
+          "id": 19,
+          "type": "multiple_choice_multi",
+          "text": "Which TWO pieces of advice does the speaker give for setting goals?",
+          "options": [
+            "A. write goals down",
+            "B. have achievable aims",
+            "C. set a time limit",
+            "D. give yourself rewards",
+            "E. challenge yourself"
+          ],
+          "sub_ids": [19, 20]
+        }
+      ]
+    },
+    {
+      "section_number": 3,
+      "instructions": "Questions 21-24\n\nChoose the correct letter, A, B or C.\n\n**Project on using natural dyes to colour fabrics**",
+      "topic": "",
+      "questions": [
+        {
+          "id": 21,
+          "type": "multiple_choice",
+          "text": "What first inspired Jim to choose this project?",
+          "options": [
+            "A. textiles displayed in an exhibition",
+            "B. a book about a botanic garden",
+            "C. carpets he saw on holiday"
+          ]
+        },
+        {
+          "id": 22,
+          "type": "multiple_choice",
+          "text": "Jim eventually decided to do a practical investigation which involved",
+          "options": [
+            "A. using a range of dyes with different fibres.",
+            "B. applying different dyes to one type of fibre.",
+            "C. testing one dye and a range of fibres."
+          ]
+        },
+        {
+          "id": 23,
+          "type": "multiple_choice",
+          "text": "When doing his experiments, Jim was surprised by",
+          "options": [
+            "A. how much natural material was needed to make the dye.",
+            "B. the fact that dyes were widely available on the internet.",
+            "C. the time that he had to leave the fabric in the dye."
+          ]
+        },
+        {
+          "id": 24,
+          "type": "multiple_choice",
+          "text": "What problem did Jim have with using tartrazine as a fabric dye?",
+          "options": [
+            "A. It caused a slight allergic reaction.",
+            "B. It was not a permanent dye on cotton.",
+            "C. It was ineffective when used on nylon."
+          ]
+        },
+        {
+          "id": 999,
+          "type": "instruction",
+          "text": "Questions 25-30\n\nWhat problem is identified with each of the following natural dyes?\n\nChoose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30."
+        },
+        {
+          "id": 1000,
+          "type": "box_options",
+          "text": "Problems",
+          "options": [
+            "A  It is expensive.",
+            "B  The colour is too strong.",
+            "C  The colour is not long-lasting.",
+            "D  It is very poisonous.",
+            "E  It can damage the fabric.",
+            "F  The colour may be unexpected.",
+            "G  It is unsuitable for some fabrics.",
+            "H  It is not generally available."
+          ]
+        },
+        {
+          "id": 25,
+          "type": "fill_in_blank",
+          "context": "turmeric",
+          "options": ["A", "B", "C", "D", "E", "F", "G", "H"]
+        },
+        {
+          "id": 26,
+          "type": "fill_in_blank",
+          "context": "beetroot",
+          "options": ["A", "B", "C", "D", "E", "F", "G", "H"]
+        },
+        {
+          "id": 27,
+          "type": "fill_in_blank",
+          "context": "Tyrian purple",
+          "options": ["A", "B", "C", "D", "E", "F", "G", "H"]
+        },
+        {
+          "id": 28,
+          "type": "fill_in_blank",
+          "context": "logwood",
+          "options": ["A", "B", "C", "D", "E", "F", "G", "H"]
+        },
+        {
+          "id": 29,
+          "type": "fill_in_blank",
+          "context": "cochineal",
+          "options": ["A", "B", "C", "D", "E", "F", "G", "H"]
+        },
+        {
+          "id": 30,
+          "type": "fill_in_blank",
+          "context": "metal oxide",
+          "options": ["A", "B", "C", "D", "E", "F", "G", "H"]
+        }
+      ]
+    },
+    {
+      "section_number": 4,
+      "instructions": "Questions 31-40\n\nComplete the notes below.\nWrite ONE WORD ONLY for each answer.",
+      "topic": "The sleepy lizard (tiliqua rugosa)",
+      "questions": [
+        {
+          "id": 1001,
+          "type": "instruction",
+          "text": "**Description**"
+        },
+        {
+          "id": 1002,
+          "type": "instruction",
+          "text": "• They are common in Western and South Australia"
+        },
+        {
+          "id": 31,
+          "type": "fill_in_blank",
+          "context": "• They are brown, but recognisable by their blue [31] ________"
+        },
+        {
+          "id": 1003,
+          "type": "instruction",
+          "text": "• They are relatively large"
+        },
+        {
+          "id": 32,
+          "type": "fill_in_blank",
+          "context": "• Their diet consists mainly of [32] ________"
+        },
+        {
+          "id": 33,
+          "type": "fill_in_blank",
+          "context": "• Their main predators are large birds and [33] ________"
+        },
+        {
+          "id": 1004,
+          "type": "instruction",
+          "text": "**Navigation study**"
+        },
+        {
+          "id": 34,
+          "type": "fill_in_blank",
+          "context": "• One study found that lizards can use the [34] ________ to help them navigate"
+        },
+        {
+          "id": 1005,
+          "type": "instruction",
+          "text": "**Observations in the wild**"
+        },
+        {
+          "id": 35,
+          "type": "fill_in_blank",
+          "context": "• Observations show that these lizards keep the same [35] ________ for several years"
+        },
+        {
+          "id": 1006,
+          "type": "instruction",
+          "text": "**What people want**\n• Possible reasons:"
+        },
+        {
+          "id": 36,
+          "type": "fill_in_blank",
+          "context": "  - to improve the survival of their young (but little [36] ________ has been noted between parents and children)"
+        },
+        {
+          "id": 37,
+          "type": "fill_in_blank",
+          "context": "  - to provide [37] ________ for female lizards"
+        },
+        {
+          "id": 1007,
+          "type": "instruction",
+          "text": "**Tracking study**"
+        },
+        {
+          "id": 38,
+          "type": "fill_in_blank",
+          "context": "• A study was carried out using GPS systems attached to the [38] ________ of the lizards"
+        },
+        {
+          "id": 39,
+          "type": "fill_in_blank",
+          "context": "• This provided information on the lizards' location and even the number of [39] ________ taken"
+        },
+        {
+          "id": 1008,
+          "type": "instruction",
+          "text": "• It appeared that the lizards were trying to avoid one another"
+        },
+        {
+          "id": 40,
+          "type": "fill_in_blank",
+          "context": "• This may be in order to reduce chances of [40] ________"
+        }
+      ]
+    }
+  ]
+}
