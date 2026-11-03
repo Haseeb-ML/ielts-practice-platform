@@ -5,7 +5,7 @@
 ![Project Status](https://img.shields.io/badge/Status-Under%20Active%20Development-orange?style=for-the-badge)
 ![Flutter Version](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart Version](https://img.shields.io/badge/Dart-Null--Safe-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ![AI Engine](https://img.shields.io/badge/AI%20Evaluation-Google%20Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white)
 ![Platform Support](https://img.shields.io/badge/Platform-Windows%20%7C%20Android%20%7C%20Web%20%7C%20iOS-informational?style=for-the-badge)
 
